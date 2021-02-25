@@ -1,0 +1,22 @@
+{
+  "name": "employee-api",
+  "version": "1.0.0",
+  "description": "This API will provide Employee record",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "api": "nodemon index.js"
+  },
+  "keywords": [
+    "API",
+    "Employee Record"
+  ],
+  "author": "M SAJID MEHMOOD",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "cors": "^2.8.5"
+  }
+}

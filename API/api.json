@@ -1,0 +1,122 @@
+{
+  "Employee": {
+    "Name": "MUHAMMAD UZAIR",
+    "ID": 148283,
+    "Experience": "3 Years",
+    "Domain": "React JS",
+    "Email": "uzair148283@sbq.pk",
+    "Salary": "50K",
+    "Joined": "12-Aug-2017",
+    "Hired By": "HR Zaheer",
+    "Office Cab": "R492",
+    "Timings": "8-2",
+    "Shift": "Morning",
+    "Job Type": "full time",
+    "Level": [
+      1,
+      2
+    ],
+    "Portfolio Website": "https://muzair.portfolio.app",
+    "Mobile": "0301-4838203"
+  },
+  "Hr": {
+    "Name": "MUHAMMAD Osama",
+    "ID": 148284,
+    "Experience": "2 Years",
+    "Domain": "HR",
+    "Email": "osama148284@sbq.pk",
+    "Salary": "80K",
+    "Joined": "1-Nov-2019",
+    "Hired By": "HR Zaheer",
+    "Office Cab": "R497",
+    "Timings": "8-2",
+    "Shift": "Morning",
+    "Job Type": "full time",
+    "Level": [
+      1,
+      2
+    ],
+    "Portfolio Website": "https://m.osama.portfolio.app",
+    "Mobile": "0342-6383884"
+  },
+  "Director": {
+    "Name": "MUHAMMAD Nouman",
+    "ID": 148285,
+    "Experience": "5 Years",
+    "Domain": "HR",
+    "Email": "nouman148285@sbq.pk",
+    "Salary": "80K",
+    "Joined": "18-Oct-2014",
+    "Hired By": "HR Zaheer",
+    "Office Cab": "R498",
+    "Timings": "8-2",
+    "Shift": "Morning",
+    "Job Type": "full time",
+    "Level": [
+      1,
+      2
+    ],
+    "Portfolio Website": "https://m.nouman.portfolio.app",
+    "Mobile": "0345-7479393"
+  },
+  "Graphics": {
+    "Name": "ALI Hassan",
+    "ID": 148286,
+    "Experience": "2 Years",
+    "Domain": "HR",
+    "Email": "alihassan148286@sbq.pk",
+    "Salary": "80K",
+    "Joined": "1-Nov-2019",
+    "Hired By": "HR Zaheer",
+    "Office Cab": "R493",
+    "Timings": "8-2",
+    "Shift": "Morning",
+    "Job Type": "full time",
+    "Level": [
+      1,
+      2
+    ],
+    "Portfolio Website": "https://m.alihassan.portfolio.app",
+    "Mobile": "0342-6383884"
+  },
+  "Intern": {
+    "Name": "Hassan",
+    "ID": 148287,
+    "Experience": "2 Years",
+    "Domain": "HR",
+    "Email": "hassan148287@sbq.pk",
+    "Salary": "80K",
+    "Joined": "1-Nov-2019",
+    "Hired By": "HR Zaheer",
+    "Office Cab": "R493",
+    "Timings": "8-2",
+    "Shift": "Morning",
+    "Job Type": "full time",
+    "Level": [
+      1,
+      2
+    ],
+    "Portfolio Website": "https://m.osama.portfolio.app",
+    "Mobile": "0342-6383884"
+  },
+  "CEO": {
+    "Name": "MUHAMMAD AZHAR",
+    "ID": 148280,
+    "Experience": "2 Years",
+    "Domain": "HR",
+    "Email": "azhar148280@sbq.pk",
+    "Salary": "80K",
+    "Joined": "1-Nov-2019",
+    "Hired By": "HR Zaheer",
+    "Office Cab": "R493",
+    "Timings": "8-2",
+    "Shift": "Morning",
+    "Job Type": "full time",
+    "Level": [
+      1,
+      2
+    ],
+    "Portfolio Website": "https://m.azhar148280.portfolio.app",
+    "Mobile": "0342-6383884"
+  }
+}
